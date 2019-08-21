@@ -1,0 +1,24 @@
+var thePet = [{
+    name:"whta",
+    speices:"can",
+    favFood:"obst"
+},
+
+{
+    name:"water",
+    speices:"peppe",
+    favFood:"cow"
+},
+
+{
+    name:"rat",
+    speices:"dog",
+    favFood:"carrot"
+},
+
+{
+    name:"rocky",
+    speices:"banan",
+    favFood:"rat"
+
+];
