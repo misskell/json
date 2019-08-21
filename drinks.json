@@ -1,0 +1,24 @@
+var theDrinks = [{
+    name:"water",
+    speices:"fruits",
+    favFood:"obst"
+},
+
+{
+    name:"proces",
+    speices:"peppe",
+    favFood:"cow"
+},
+
+{
+    name:"rat",
+    speices:"dog",
+    favFood:"carrot"
+},
+
+{
+    name:"rocky",
+    speices:"banan",
+    favFood:"rat"
+
+];
