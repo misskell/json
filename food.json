@@ -1,7 +1,9 @@
-var thePet = [{
+var theFood = [{
     name:"whta",
     speices:"can",
-    favFood:"obst"
+    favFood:(
+        "likes": [ "tuna", "salad"],
+    "dislikes":["milk", "meat"])
 },
 
 {
@@ -13,12 +15,16 @@ var thePet = [{
 {
     name:"rat",
     speices:"dog",
-    favFood:"carrot"
+    favFood:(
+        "likes": [ "tuna", "salad"],
+    "dislikes":["milk", "meat"])
 },
 
 {
     name:"rocky",
     speices:"banan",
-    favFood:"rat"
+    favFood:(
+        "likes": [ "tuna", "salad"],
+    "dislikes":["milk", "meat"])
 
 ];
